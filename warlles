@@ -1,2 +1,34 @@
-atividade 07/05/2025
-1 
+07/05/2025
+ATIVIDADE DE ALGORITIMOS E LOGICA DE PROGRAMAÇAO
+
+questao 1
+passo a passo de: como trocar a lampada queimada?
+.buscar a lampada
+.pegar na escada
+.posicionar a escadaembaixo da lampada 
+.subir na escada 
+.retirar a lampadavelha 
+.colocara lampada reserva
+
+questao 2 
+descobrir qual é o maior número natural que divide os dois ao mesmotempo sem deixar resto
+passo a passo:
+.informar os números naturais
+.decompor os números
+.escreveros números na forma fatorada 
+.selecionar os fatores comuns com os menores expoentes
+.resolver as potencias dos termos que estao na forma de potencia 
+.apresentar o resultado 
+
+questao 3 
+dados de informacoes
+(cargas dele:lobo, bode, maço dealfafa)
+(capacidade: 2 cargas; ele + uma carga)
+(.lobo come o bode; lobo nao come alfafa; bode come alfafa)
+
+sendo assim, nao podemos colocar o lobo do outro lado junto com o bode,nem o bode junto com a alfafa. entao, vamos fazer aassim:
+primeiro levamos o lobo para o outro lado
+depois, voltamos sozinho e levamos a alfafa
+por fim, voltamos novamente e pegamos o bode 
+
+
