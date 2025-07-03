@@ -1,16 +1,13 @@
 programa {
   funcao inicio() {
   //declaracao de variiaveis
-    real c,f°
+    real c,f
   //entrada de dados
-     escreva("informe a temperatura em c")
+     escreva("informe a temperatura em graus celsius")
      leia(c)
- //entrada de dados
-   escreva("informe a temperatura em f°")
-   leia(f°)
  //processamento
-   f°=(9*°c+160)5
+   f=(9*c+160)5
  //saida de dados
-   escreva("a temperatura ahreheit e", f°)
+   escreva("a temperatura fahreheit é", f)
   }
 }
